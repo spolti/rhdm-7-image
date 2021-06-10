@@ -19,7 +19,7 @@ envs:
   value: "7.12.0"
 - name: "ADD_ONS_DISTRIBUTION_ZIP"
   value: "rhdm_add_ons_distribution.zip"
-- name: "CONTROLLER_DISTRIBUTION_ZIP"
+- name: "CONTROLLER_DISTRIBUTION_ZIP-aleatory-change"
   value: "rhdm-7.12.0-controller-ee7.zip"
 artifacts:
 - name: "rhdm_add_ons_distribution.zip"
